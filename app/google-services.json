@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090094917652",
+    "project_id": "tiendavapers",
+    "storage_bucket": "tiendavapers.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090094917652:android:2d4decc0c6c9fe3cab5f01",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZxNrh5nCrmQNX4v-Uq_BVY6SC9We1rUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
